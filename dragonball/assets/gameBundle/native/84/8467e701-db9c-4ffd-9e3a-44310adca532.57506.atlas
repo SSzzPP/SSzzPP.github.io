@@ -1,0 +1,20 @@
+
+ui_Cao_Gray.png
+size: 118,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cao_Gray_01
+  rotate: false
+  xy: 73, 2
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Cao_Gray_02
+  rotate: false
+  xy: 2, 4
+  size: 69, 46
+  orig: 70, 47
+  offset: 1, 1
+  index: -1

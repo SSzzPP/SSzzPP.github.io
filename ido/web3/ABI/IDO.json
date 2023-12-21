@@ -1,0 +1,223 @@
+[
+    {
+     "inputs": [],
+     "stateMutability": "nonpayable",
+     "type": "constructor"
+    },
+    {
+     "anonymous": false,
+     "inputs": [
+      {
+       "indexed": false,
+       "internalType": "uint8",
+       "name": "version",
+       "type": "uint8"
+      }
+     ],
+     "name": "Initialized",
+     "type": "event"
+    },
+    {
+     "anonymous": false,
+     "inputs": [
+      {
+       "indexed": true,
+       "internalType": "address",
+       "name": "user",
+       "type": "address"
+      },
+      {
+       "indexed": true,
+       "internalType": "uint256",
+       "name": "round",
+       "type": "uint256"
+      },
+      {
+       "indexed": false,
+       "internalType": "uint256",
+       "name": "amount",
+       "type": "uint256"
+      }
+     ],
+     "name": "Subscribed",
+     "type": "event"
+    },
+    {
+     "inputs": [],
+     "name": "USDT_ADDRESS",
+     "outputs": [
+      {
+       "internalType": "address",
+       "name": "",
+       "type": "address"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [],
+     "name": "currentRound",
+     "outputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [],
+     "name": "getTargets",
+     "outputs": [
+      {
+       "internalType": "uint256[3]",
+       "name": "",
+       "type": "uint256[3]"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "name": "prices",
+     "outputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [
+      {
+       "internalType": "address",
+       "name": "_user",
+       "type": "address"
+      }
+     ],
+     "name": "query",
+     "outputs": [
+      {
+       "internalType": "uint256[3]",
+       "name": "",
+       "type": "uint256[3]"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [],
+     "name": "queryLeft",
+     "outputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [],
+     "name": "receiver",
+     "outputs": [
+      {
+       "internalType": "address",
+       "name": "",
+       "type": "address"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "name": "releaseValues",
+     "outputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [
+      {
+       "internalType": "uint256",
+       "name": "_amount",
+       "type": "uint256"
+      }
+     ],
+     "name": "subscribe",
+     "outputs": [],
+     "stateMutability": "nonpayable",
+     "type": "function"
+    },
+    {
+     "inputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "name": "subscribedValues",
+     "outputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    },
+    {
+     "inputs": [
+      {
+       "internalType": "address",
+       "name": "",
+       "type": "address"
+      },
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "name": "userSubscriptions",
+     "outputs": [
+      {
+       "internalType": "uint256",
+       "name": "",
+       "type": "uint256"
+      }
+     ],
+     "stateMutability": "view",
+     "type": "function"
+    }
+   ]

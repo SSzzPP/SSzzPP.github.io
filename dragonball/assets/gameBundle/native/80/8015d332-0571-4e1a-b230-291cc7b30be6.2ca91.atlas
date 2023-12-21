@@ -1,0 +1,55 @@
+
+ui_MuBei.png
+size: 1290,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MuBei_1
+  rotate: false
+  xy: 2, 348
+  size: 316, 311
+  orig: 316, 312
+  offset: 0, 1
+  index: -1
+MuBei_2
+  rotate: false
+  xy: 320, 348
+  size: 316, 311
+  orig: 316, 312
+  offset: 0, 1
+  index: -1
+MuBei_3
+  rotate: true
+  xy: 638, 343
+  size: 316, 325
+  orig: 316, 326
+  offset: 0, 1
+  index: -1
+MuBei_4
+  rotate: true
+  xy: 965, 343
+  size: 316, 323
+  orig: 316, 324
+  offset: 0, 1
+  index: -1
+MuBei_5
+  rotate: true
+  xy: 2, 30
+  size: 316, 332
+  orig: 316, 333
+  offset: 0, 1
+  index: -1
+MuBei_6
+  rotate: true
+  xy: 336, 25
+  size: 316, 341
+  orig: 316, 342
+  offset: 0, 1
+  index: -1
+MuBei_7
+  rotate: true
+  xy: 679, 2
+  size: 339, 412
+  orig: 340, 413
+  offset: 0, 1
+  index: -1

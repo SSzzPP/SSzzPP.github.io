@@ -1,0 +1,97 @@
+
+ui_WuTai.png
+size: 1774,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guang_01
+  rotate: false
+  xy: 2, 93
+  size: 1080, 32
+  orig: 1082, 38
+  offset: 1, 3
+  index: -1
+Guang_02
+  rotate: false
+  xy: 2, 59
+  size: 1080, 32
+  orig: 1082, 38
+  offset: 1, 3
+  index: -1
+ZhiJia
+  rotate: false
+  xy: 2, 127
+  size: 1080, 94
+  orig: 1082, 96
+  offset: 1, 1
+  index: -1
+wutai_1 拷贝
+  rotate: false
+  xy: 1182, 506
+  size: 250, 514
+  orig: 250, 514
+  offset: 0, 0
+  index: -1
+wutai_15
+  rotate: true
+  xy: 1084, 127
+  size: 83, 172
+  orig: 85, 175
+  offset: 1, 1
+  index: -1
+wutai_16
+  rotate: true
+  xy: 1084, 42
+  size: 83, 172
+  orig: 85, 175
+  offset: 1, 1
+  index: -1
+wutai_2
+  rotate: true
+  xy: 1182, 254
+  size: 250, 514
+  orig: 250, 514
+  offset: 0, 0
+  index: -1
+wutai_22
+  rotate: false
+  xy: 1686, 567
+  size: 76, 169
+  orig: 82, 175
+  offset: 3, 3
+  index: -1
+wutai_24
+  rotate: false
+  xy: 1686, 738
+  size: 76, 282
+  orig: 82, 288
+  offset: 3, 3
+  index: -1
+wutai_26
+  rotate: false
+  xy: 2, 223
+  size: 1080, 797
+  orig: 1082, 799
+  offset: 1, 1
+  index: -1
+wutai_3
+  rotate: true
+  xy: 1258, 2
+  size: 250, 514
+  orig: 250, 514
+  offset: 0, 0
+  index: -1
+wutai_4
+  rotate: false
+  xy: 1434, 506
+  size: 250, 514
+  orig: 250, 514
+  offset: 0, 0
+  index: -1
+wutai_5
+  rotate: true
+  xy: 1084, 212
+  size: 808, 96
+  orig: 812, 100
+  offset: 2, 2
+  index: -1

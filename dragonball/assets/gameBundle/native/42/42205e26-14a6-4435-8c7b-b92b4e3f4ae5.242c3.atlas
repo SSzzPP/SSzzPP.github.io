@@ -1,0 +1,118 @@
+
+hm_YanWang.png
+size: 489,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWang_1
+  rotate: true
+  xy: 344, 29
+  size: 53, 39
+  orig: 57, 41
+  offset: 1, 1
+  index: -1
+YanWang_10
+  rotate: false
+  xy: 449, 25
+  size: 32, 24
+  orig: 36, 27
+  offset: 1, 1
+  index: -1
+YanWang_11
+  rotate: true
+  xy: 449, 51
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+YanWang_12
+  rotate: false
+  xy: 191, 42
+  size: 100, 27
+  orig: 102, 28
+  offset: 0, 1
+  index: -1
+YanWang_13
+  rotate: false
+  xy: 378, 2
+  size: 52, 21
+  orig: 54, 23
+  offset: 1, 1
+  index: -1
+YanWang_14
+  rotate: false
+  xy: 2, 6
+  size: 187, 147
+  orig: 189, 149
+  offset: 1, 1
+  index: -1
+YanWang_15
+  rotate: false
+  xy: 306, 10
+  size: 36, 72
+  orig: 38, 73
+  offset: 0, 1
+  index: -1
+YanWang_16
+  rotate: true
+  xy: 191, 71
+  size: 82, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+YanWang_2
+  rotate: true
+  xy: 306, 84
+  size: 69, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+YanWang_3
+  rotate: true
+  xy: 240, 17
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+YanWang_4
+  rotate: true
+  xy: 386, 25
+  size: 128, 61
+  orig: 130, 64
+  offset: 1, 2
+  index: -1
+YanWang_5
+  rotate: false
+  xy: 293, 60
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+YanWang_6
+  rotate: false
+  xy: 191, 2
+  size: 47, 38
+  orig: 49, 41
+  offset: 1, 2
+  index: -1
+YanWang_7
+  rotate: false
+  xy: 344, 3
+  size: 32, 24
+  orig: 36, 27
+  offset: 1, 1
+  index: -1
+YanWang_8
+  rotate: false
+  xy: 293, 49
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+YanWang_9
+  rotate: true
+  xy: 449, 106
+  size: 47, 38
+  orig: 49, 41
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,13 @@
+
+ef_WinGlow.png
+size: 427,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow4
+  rotate: false
+  xy: 2, 2
+  size: 423, 426
+  orig: 512, 512
+  offset: 46, 43
+  index: -1

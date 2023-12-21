@@ -1,0 +1,48 @@
+
+ui_ZhuShen.png
+size: 514,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wutai_6
+  rotate: false
+  xy: 240, 2
+  size: 209, 74
+  orig: 214, 80
+  offset: 2, 3
+  index: -1
+wutai_7
+  rotate: false
+  xy: 240, 78
+  size: 210, 74
+  orig: 215, 80
+  offset: 2, 3
+  index: -1
+wutai_8
+  rotate: false
+  xy: 2, 34
+  size: 236, 118
+  orig: 238, 120
+  offset: 1, 1
+  index: -1
+wutaiwenzi_1
+  rotate: false
+  xy: 2, 3
+  size: 143, 29
+  orig: 145, 31
+  offset: 1, 1
+  index: -1
+wutaiwenzi_2
+  rotate: true
+  xy: 452, 9
+  size: 143, 29
+  orig: 145, 31
+  offset: 1, 1
+  index: -1
+wutaiwenzi_3
+  rotate: true
+  xy: 483, 9
+  size: 143, 29
+  orig: 145, 31
+  offset: 1, 1
+  index: -1
