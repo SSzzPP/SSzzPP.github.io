@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /ua
-Disallow: /ru
-
-Sitemap: https://advanced.team/sitemap.xml
