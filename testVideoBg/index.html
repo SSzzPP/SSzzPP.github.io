@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<style>
+		video {
+			position: fixed;
+			right: 0;
+			bottom: 0;
+			min-width: 100%;
+			min-height: 100%;
+			object-fit: cover;
+			z-index: -1;
+			/* This will make sure that the video is behind other content */
+		}
+		.content_div {
+			font-family: KaiTi;
+			font-weight: 700;
+			color: #fff;
+			text-align: center;
+		}
+	</style>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>testVideoBg</title>
+	</head>
+	<body>
+		<video width="100%" height="100%" poster="https://assets-global.website-files.com/640b3e123ecaf85be1224c7e/648b2a690c890eca532c94d6_hero-thumb.jpeg" autoplay loop muted playsinline>
+		  <source src="https://deo4i7klw2azw.cloudfront.net/Courtyard_Statue_H265_CBR4_30fps.mp4" type="video/mp4">
+		</video>
+		<div class="content_div">
+			<h1>TEST-VIDEO-BG</h1>
+		</div>
+	</body>
+</html>
