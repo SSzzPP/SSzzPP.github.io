@@ -1,0 +1,1 @@
+(self.webpackChunkfutrusim_frontend=self.webpackChunkfutrusim_frontend||[]).push([[900],{89513:()=>{},61276:()=>{}}]);
