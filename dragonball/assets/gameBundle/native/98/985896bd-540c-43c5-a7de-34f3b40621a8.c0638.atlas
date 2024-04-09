@@ -1,0 +1,48 @@
+
+ui_WangZhe.png
+size: 628,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wutai_12
+  rotate: false
+  xy: 261, 91
+  size: 230, 80
+  orig: 234, 86
+  offset: 2, 3
+  index: -1
+wutai_13
+  rotate: false
+  xy: 261, 9
+  size: 229, 80
+  orig: 234, 86
+  offset: 2, 3
+  index: -1
+wutai_14
+  rotate: false
+  xy: 2, 5
+  size: 257, 166
+  orig: 259, 168
+  offset: 1, 1
+  index: -1
+wutaiwenzi_7
+  rotate: true
+  xy: 493, 2
+  size: 169, 43
+  orig: 171, 45
+  offset: 1, 1
+  index: -1
+wutaiwenzi_8
+  rotate: true
+  xy: 538, 2
+  size: 169, 43
+  orig: 171, 45
+  offset: 1, 1
+  index: -1
+wutaiwenzi_9
+  rotate: true
+  xy: 583, 2
+  size: 169, 43
+  orig: 171, 45
+  offset: 1, 1
+  index: -1
