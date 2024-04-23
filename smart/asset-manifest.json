@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f1c3a39.css",
+    "main.js": "/static/js/main.e4921f07.js",
+    "static/js/206.9a7200e1.chunk.js": "/static/js/206.9a7200e1.chunk.js",
+    "static/media/PingFang-SC.ttf": "/static/media/PingFang-SC.750355c170f4655c7adf.ttf",
+    "static/media/login-bg.png": "/static/media/login-bg.4540dfe63fb41461d408.png",
+    "static/media/HarmonyOS-Sans.ttf": "/static/media/HarmonyOS-Sans.8773fbbc99c1eeecf94a.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2f1c3a39.css",
+    "static/js/main.e4921f07.js"
+  ]
+}
