@@ -1,0 +1,20 @@
+
+ui_Cao_Green.png
+size: 118,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: false
+  xy: 2, 3
+  size: 69, 47
+  orig: 70, 47
+  offset: 1, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 73, 2
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1

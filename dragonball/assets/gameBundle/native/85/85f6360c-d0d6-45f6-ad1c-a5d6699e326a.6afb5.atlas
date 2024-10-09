@@ -1,0 +1,48 @@
+
+ui_LingTou.png
+size: 154,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wutai_10
+  rotate: true
+  xy: 2, 62
+  size: 210, 74
+  orig: 215, 80
+  offset: 2, 3
+  index: -1
+wutai_11
+  rotate: true
+  xy: 2, 274
+  size: 236, 118
+  orig: 238, 120
+  offset: 1, 1
+  index: -1
+wutai_9
+  rotate: true
+  xy: 78, 63
+  size: 209, 74
+  orig: 214, 80
+  offset: 2, 3
+  index: -1
+wutaiwenzi_4
+  rotate: true
+  xy: 122, 365
+  size: 145, 28
+  orig: 147, 30
+  offset: 1, 1
+  index: -1
+wutaiwenzi_5
+  rotate: false
+  xy: 2, 32
+  size: 145, 28
+  orig: 147, 30
+  offset: 1, 1
+  index: -1
+wutaiwenzi_6
+  rotate: false
+  xy: 2, 2
+  size: 145, 28
+  orig: 147, 30
+  offset: 1, 1
+  index: -1

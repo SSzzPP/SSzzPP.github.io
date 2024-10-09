@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d3ac127.css",
+    "main.js": "/static/js/main.874b9b0b.js",
+    "static/js/685.2aa65e9e.chunk.js": "/static/js/685.2aa65e9e.chunk.js",
+    "static/media/MicrosoftYaHeiBold.ttf": "/static/media/MicrosoftYaHeiBold.19e11084f634fe7b555e.ttf",
+    "static/media/MicrosoftYaHei.ttf": "/static/media/MicrosoftYaHei.dc938728e0d7566bc3e7.ttf",
+    "static/media/BDZongYi-A001.ttf": "/static/media/BDZongYi-A001.f228bbd6ea4dc45896c6.ttf",
+    "static/media/Arboria-Medium.ttf": "/static/media/Arboria-Medium.b16c85a992cddecd891d.ttf",
+    "static/media/Arboria-Bold.ttf": "/static/media/Arboria-Bold.ab3f3628928aae93ef23.ttf",
+    "static/media/Arboria-Book.ttf": "/static/media/Arboria-Book.aac42fd892609f878db4.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4d3ac127.css",
+    "static/js/main.874b9b0b.js"
+  ]
+}

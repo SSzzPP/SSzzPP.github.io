@@ -1,0 +1,20 @@
+
+qiu.png
+size: 586,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lanqiu
+  rotate: true
+  xy: 496, 379
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 2
+  size: 492, 466
+  orig: 492, 466
+  offset: 0, 0
+  index: -1
