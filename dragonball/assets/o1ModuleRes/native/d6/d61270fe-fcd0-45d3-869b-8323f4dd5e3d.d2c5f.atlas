@@ -1,0 +1,20 @@
+
+GuideFinger.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Library/Finger1
+  rotate: true
+  xy: 2, 2
+  size: 62, 68
+  orig: 63, 68
+  offset: 1, 0
+  index: -1
+Library/Finger2
+  rotate: true
+  xy: 72, 2
+  size: 62, 67
+  orig: 63, 68
+  offset: 0, 0
+  index: -1

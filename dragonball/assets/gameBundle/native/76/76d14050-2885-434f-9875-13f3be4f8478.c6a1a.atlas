@@ -1,0 +1,27 @@
+
+ui_DengPai.png
+size: 580,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mingpai_1
+  rotate: true
+  xy: 210, 2
+  size: 232, 183
+  orig: 234, 185
+  offset: 1, 1
+  index: -1
+mingpai_2
+  rotate: true
+  xy: 395, 2
+  size: 232, 183
+  orig: 234, 185
+  offset: 1, 1
+  index: -1
+mingpai_3
+  rotate: true
+  xy: 2, 10
+  size: 224, 206
+  orig: 224, 206
+  offset: 0, 0
+  index: -1
